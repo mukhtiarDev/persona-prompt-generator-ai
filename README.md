@@ -37,8 +37,11 @@ To run this app locally:
 2.  --Install Dependencies:--
     ```bash
     pip install -r requirements.txt
+
 3.  --Install correct packages:--
-    ```
+    ```bash
+    pip install google-generativeai
+
 4.  --Set Environment Variable:-- Create a file named `.streamlit/secrets.toml` and add your API key (This simulates Streamlit Secrets locally):
     ```toml
     GEMINI_API_KEY="YOUR_API_KEY_HERE"
