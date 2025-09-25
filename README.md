@@ -1,7 +1,7 @@
 🧙 Persona Prompt Generator
+GitHub - mukhtiarDev
 
-Streamlit App - (https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
-(https://mukhtiarDev-persona-prompt-generator-ai.streamlit.app/)
+Streamlit App - https://persona-prompt-generator-ai-6ch4mmt8pwa5hqow3vuupf.streamlit.app/
 
 ## ✨ Overview
 
